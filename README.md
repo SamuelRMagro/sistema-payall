@@ -105,7 +105,7 @@ payall-core/
 ## Links
 
 - Site oficial: [https://www.payall.com.br](https://www.payall.com.br)
-- Repositório: [https://github.com/payall/payall-core](https://github.com/payall/payall-core)
+- Repositório: [https://github.com/SamuelRMagro/sistema-payall](https://github.com/SamuelRMagro/sistema-payall)
 - Documentação da API: [https://docs.payall.com.br](https://docs.payall.com.br)
 
 ---
